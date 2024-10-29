@@ -54,10 +54,10 @@ const Blog = () => {
             </CardHeader>
             <CardContent>
               <h2 className="text-xl font-semibold mb-2">{blog.title}</h2>
-              <p className="text-gray-300 mb-4">{blog.description}</p>
+              <p className="mb-4">{blog.description}</p>
               <div className="flex justify-between items-center text-sm text-gray-500">
                 <span>{blog.author}</span>
-                <span>{new Date(blog.date).toLocaleDateString()}</span>
+                <span>{blog.date}</span>
               </div>
             </CardContent>
             <CardFooter>
