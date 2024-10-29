@@ -1,7 +1,24 @@
+"use client"
 import Navbar from "@/components/Navbar";
 import Image from "next/image";
+import Typed from 'typed.js';
+import React, { useRef, useEffect } from 'react';
 
 export default function Home() {
+  const el = React.useRef(null);
+
+  React.useEffect(() => {
+    const typed = new Typed(el.current, {
+      strings: ['Coding', 'Web Development', 'JavaScript', 'Software Design', 'Programming', 'Frontend', 'Backend', 'Full Stack'],
+      typeSpeed: 50,
+    });
+
+    return () => {
+      // Destroy Typed instance during cleanup to stop animation
+      typed.destroy();
+    };
+  }, []);
+
   return (
     <main>
       <section className="container px-4 py-10 mx-auto lg:h-128 lg:space-x-8 lg:flex lg:items-center">
@@ -9,7 +26,7 @@ export default function Home() {
           <h1 className="text-3xl leading-snug text-gray-800 dark:text-gray-200 md:text-4xl">
             A <span className="font-semibold">free repository</span> for community
             <br className="hidden lg:block" />
-            components using <span className="font-semibold underline decoration-primary">[Tailwind CSS](https://tailwindcss.com/)</span>
+            components using <span className="font-semibold underline decoration-primary"><span ref={el} /></span>
           </h1>
           <p className="mt-4 text-lg text-gray-500 dark:text-gray-300">
             Open source Tailwind UI components and templates to

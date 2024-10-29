@@ -9,6 +9,9 @@ import remarkRehype from 'remark-rehype'
 import {unified} from 'unified'
 import rehypePrettyCode from "rehype-pretty-code";
 import { transformerCopyButton } from '@rehype-pretty/transformers'
+import OnThisPage from "@/components/onthispage";
+import rehypeAutolinkHeadings from 'rehype-autolink-headings'
+import rehypeSlug from 'rehype-slug'
 
 export default async function Page({ params }) {
     // const blog = {
@@ -33,6 +36,8 @@ export default async function Page({ params }) {
     .use(rehypeDocument, {title: '👋🌍'})
     .use(rehypeFormat)
     .use(rehypeStringify)
+    .use(rehypeSlug)
+    .use(rehypeAutolinkHeadings)
     .use(rehypePrettyCode, {
         theme: "github-dark",
         transformers: [
@@ -55,6 +60,7 @@ export default async function Page({ params }) {
             <p className="text-sm text-gray-500 mb-4">{data.date}</p>
             </div>
             <div className="prose dark:prose-invert" dangerouslySetInnerHTML={{ __html: htmlContent }}></div>
+            <OnThisPage htmlContent={htmlContent} />
         </div>
     )
 }

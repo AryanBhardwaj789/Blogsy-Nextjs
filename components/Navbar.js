@@ -1,6 +1,6 @@
 'use client'
 import Link from 'next/link';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Button } from "@/components/ui/button"
 import {
     Sheet,
@@ -11,8 +11,32 @@ import {
     SheetTrigger,
 } from "../components/ui/sheet"
 import { ModeToggle } from './theme-btn';
+import LoadingBar from 'react-top-loading-bar'
+import { usePathname } from 'next/navigation';
 
 const Navbar = () => {
+    const [progress, setProgress] = useState(0)
+    const pathname = usePathname()
+
+    useEffect(() => {
+        setProgress(30)
+
+        setTimeout(() => {
+            setProgress(70)
+        }, 100)
+
+        setTimeout(() => {
+            setProgress(100)
+        }, 400)
+    }, [pathname])
+
+    useEffect(() => {
+        setTimeout(() => {
+            setProgress(0)
+        }, 500)
+    }, [])
+
+
     const [isOpen, setIsOpen] = useState(false);
 
     const toggleMenu = () => {
@@ -21,6 +45,11 @@ const Navbar = () => {
 
     return (
         <nav className="p-4 bg-background/50 sticky top-0 backdrop-blur-sm border-b z-10">
+            <LoadingBar
+                color='purple'
+                progress={progress}
+                onLoaderFinished={() => setProgress(0)}
+            />
             <div className="container mx-auto flex justify-between items-center">
                 <div className="text-2xl font-bold">
                     <Link href="/">Blogsy</Link>
