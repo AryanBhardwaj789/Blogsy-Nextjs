@@ -4,30 +4,160 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut sed nihil, molestias, quibusdam aut repellat totam asperiores 
-      voluptatem quos aperiam quidem aliquid excepturi necessitatibus nobis reiciendis quas earum porro rem ea optio! Autem iure 
-      omnis a! Non, quaerat accusantium quibusdam iure praesentium facere suscipit amet illum voluptatem quas enim labore nulla, 
-      officiis odit voluptas? Ipsum, ut. Recusandae assumenda autem quasi id eaque magni? Molestias laudantium perspiciatis nam eaque 
-      expedita, inventore, at placeat aliquid ratione ipsum mollitia consequatur odit ducimus nesciunt asperiores incidunt. Culpa 
-      accusamus ducimus nostrum incidunt, ratione nulla voluptatibus labore iusto possimus quasi, minima, voluptate iste alias repellendus
-      Cum magni ipsum sed quibusdam quis, accusamus explicabo optio recusandae praesentium illo! Eveniet est soluta corrupti illo natus? 
-      Maxime similique qui incidunt, modi saepe dolore repellat? Fugiat reiciendis eligendi quam tempore cupiditate soluta sint incidunt 
-      vitae. Totam placeat ad, ullam vitae dolores soluta. Omnis, voluptate possimus. Laborum, temporibus velit sunt quisquam soluta 
-      culpa quasi eos totam dignissimos nobis, placeat similique dolores nihil, molestias tempora architecto veniam quae nostrum. 
-      Temporibus totam ratione explicabo incidunt possimus distinctio debitis qui, nam impedit corrupti nostrum, in hic! Explicabo, 
-      provident a! Et hic pariatur itaque consectetur, aperiam non quisquam eaque sequi ullam labore laborum autem earum nam nulla 
-      dolorem sint. Dignissimos deserunt sed quaerat, nostrum dolore quo consequatur molestias ab rem. Fugiat porro eligendi consectetur 
-      iure dolorum ad nemo corporis nobis. Error iste possimus eveniet doloremque dicta animi laborum tenetur maxime, non deserunt eaque 
-      quam ad excepturi quae, labore dolorem vero voluptates earum accusantium delectus dolores. Iusto ducimus pariatur eveniet 
-      excepturi! Sit, id ab commodi quam eveniet, error dicta libero nam accusamus facilis, porro repellendus inventore. Nostrum 
-      quibusdam unde modi doloribus ut, maxime eius earum aliquid quam eum et officia qui voluptate debitis voluptatum error non neque 
-      fugiat molestias minus excepturi dolores, delectus quis quas! Incidunt, natus doloremque. Dignissimos laborum deleniti recusandae, 
-      in nemo amet nihil tenetur aperiam fugiat iste corporis, perferendis excepturi officiis dolorem doloribus sit perspiciatis ex modi 
-      commodi iusto nam esse? Culpa facilis nisi id modi repellendus ab doloremque sed expedita corporis. Itaque totam asperiores 
-      aspernatur distinctio!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta ea tenetur laboriosam consectetur atque, delectus odio veniam odit quaerat temporibus accusantium recusandae in saepe cumque nulla? Dolor sed ab deserunt quibusdam, nobis exercitationem. Repellat labore qui eos ratione alias quasi! Eius perspiciatis, quisquam beatae, illum vel veritatis labore nisi soluta, dolores magnam aspernatur atque! Accusamus hic, eveniet voluptate commodi ratione totam atque voluptates quidem animi expedita quas dolorem molestiae ipsum eligendi. In perferendis corrupti vitae ab placeat soluta assumenda voluptatibus quae fugiat dolore quidem ex, consequatur libero sequi optio nobis perspiciatis hic explicabo fugit cum, voluptas omnis expedita. Voluptatibus nesciunt aperiam expedita exercitationem excepturi recusandae odit, consectetur hic iure incidunt iusto fugiat, minima beatae animi optio ipsa, alias eaque ut in. Adipisci eum nam impedit assumenda autem omnis dolorem voluptatum minus cum dolor! Cumque amet quibusdam et aliquid placeat aliquam accusamus quasi tempore quam laudantium soluta repellat, vel tenetur voluptates consequuntur corrupti exercitationem recusandae reiciendis accusantium odio sapiente eligendi. Odit, a? Reiciendis alias quos animi quam quia, minima soluta iure minus quidem rerum vitae, quod aperiam inventore necessitatibus? Quae officiis voluptatibus veniam architecto! Quaerat architecto maxime repellendus eveniet error voluptate dolor, esse veritatis ex magnam fuga non cupiditate doloribus nemo beatae officiis nam! Similique corrupti libero aliquid quidem officiis repellendus optio distinctio, fuga quo alias veniam dolorem laboriosam, omnis blanditiis illum qui fugiat ad minima illo nemo? Corrupti, dolor tempore, odit molestias ipsa natus nemo qui nisi et harum, aliquid iste perferendis molestiae officia. Eum suscipit ipsa recusandae veniam molestias? Autem, quos tempora sequi doloremque reiciendis ipsa perferendis quaerat ad in voluptatibus nobis eius repellendus possimus magnam vero incidunt qui error mollitia ex sed. Tenetur non deleniti modi. Dolore consequatur tempore tempora eius et odit unde reiciendis, similique earum praesentium facere beatae. Facere, ab? Autem fuga eius consequatur doloremque non voluptate, distinctio esse facilis maiores et, a deleniti perspiciatis animi excepturi nihil sequi? Cupiditate veniam, recusandae fuga omnis debitis et ipsa nihil provident natus tenetur sapiente amet consequatur quo placeat maiores sit officiis, optio minima voluptatum. Nemo quisquam illo saepe vero, aperiam sequi pariatur. Libero reiciendis totam voluptatem optio, quibusdam est soluta sint deleniti, veniam, facere dolor necessitatibus. Distinctio nam, maiores, accusantium adipisci voluptatum dolorum tempora recusandae hic voluptate reprehenderit repudiandae consectetur nisi? Id enim quidem perspiciatis commodi dolorum repellendus ex illum dolore, quia a architecto temporibus quasi cum vitae. Ut asperiores blanditiis odio ad debitis sapiente voluptate eius fugit! Consequuntur atque aliquam, ipsa consequatur soluta non dolore hic earum cupiditate. Cumque consectetur error delectus quae quidem commodi similique animi eaque cum expedita, natus magni quo consequuntur debitis unde obcaecati ipsum, illum suscipit in! Sint laudantium dicta nulla ab assumenda illo sed delectus, id numquam deserunt eaque saepe temporibus quasi atque animi neque iure at debitis expedita doloribus quam ipsa! Vero alias voluptatibus nam nostrum impedit aspernatur doloremque voluptatum enim ullam eaque, quam perspiciatis similique nemo provident nihil numquam labore, commodi iste est laborum incidunt unde omnis? Rerum consectetur numquam libero! Sapiente molestias distinctio alias nesciunt voluptatum eos inventore dolores, minus deleniti quisquam numquam temporibus amet aspernatur, veritatis repellendus, officiis quam ratione pariatur quia exercitationem? Debitis possimus sequi enim corporis. Officiis minima aperiam itaque ab incidunt, amet sapiente facilis. Nobis minus placeat in, repellendus perferendis fugit animi exercitationem! Velit aspernatur ullam quam illo dolores vitae minima obcaecati fugiat voluptas, unde facere, ipsum, adipisci omnis maiores pariatur quod maxime! Quos nisi in excepturi suscipit tempora perferendis porro adipisci maiores reiciendis labore veritatis error iure laborum quasi, nihil eius commodi consequatur ratione, libero eaque? Atque provident sequi eveniet, asperiores sapiente quo recusandae ea iusto aliquid odit dolores hic ipsam. Quas, corrupti! Culpa nihil libero iste, maxime assumenda omnis repellendus necessitatibus recusandae saepe ut eligendi delectus, fugiat aut ducimus facere excepturi asperiores repellat sed earum! Maiores quo odio ratione magnam aut in repudiandae, repellendus consequuntur non. Assumenda culpa in soluta maxime inventore atque et qui nostrum unde! Expedita facere obcaecati nemo, nostrum tempore provident perspiciatis praesentium eius molestiae beatae quidem aperiam fuga optio asperiores quisquam eveniet pariatur blanditiis? Sapiente, impedit? Quasi aliquam aut inventore necessitatibus recusandae cupiditate quos voluptatibus voluptatum facilis ipsam sapiente perferendis nisi totam, eaque ad iste, maiores quibusdam labore eos quia hic. Autem officia modi obcaecati ullam dignissimos minus nemo, nostrum vitae sunt reprehenderit rerum necessitatibus corporis illo molestias quia quidem esse iure excepturi dolores saepe eum! Officiis, repellat perspiciatis labore, dolorem quasi sequi, eius natus amet esse dolor asperiores. Expedita modi, ducimus totam aliquid officiis corrupti sunt delectus minima, rem perferendis accusamus vero sint aut rerum doloribus soluta. Perspiciatis accusantium laborum impedit provident rerum autem omnis. Ipsa suscipit hic praesentium dolore fuga necessitatibus in iusto nesciunt ullam fugit molestiae facere reiciendis consequatur repellendus odit cumque odio deserunt nam impedit adipisci aliquam ratione consequuntur, quod tenetur. Molestias sint magni debitis a? Harum error expedita magni commodi aut iusto, earum exercitationem voluptates iure voluptate doloribus aperiam voluptatum veritatis, ea temporibus nam veniam totam ad provident assumenda beatae? Rerum doloremque nisi quis velit explicabo, non id maxime quisquam enim asperiores, numquam, laborum hic eos corrupti. Fugiat quos perspiciatis praesentium earum, itaque quam numquam ad reprehenderit aperiam, nostrum provident impedit corporis! Ea libero provident quos similique atque illum commodi ex blanditiis cupiditate aliquam alias animi dicta, molestias, doloremque aspernatur sed voluptatem laudantium. Nisi possimus veritatis quaerat quis velit suscipit dolor saepe beatae? 
-      Et repudiandae, illum mollitia dolor officiis enim sapiente nihil!
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Et blanditiis nobis nulla hic, eligendi odit expedita illo adipisci sit eius dolorem aliquid culpa sed repellendus sequi, dolor deleniti ratione laboriosam doloremque asperiores omnis amet in porro beatae. Reiciendis nihil quia, totam voluptas quod distinctio alias quaerat vero ipsa illum impedit ipsum quibusdam in quam aut cumque praesentium at nobis quis magnam repudiandae! Sapiente, eaque accusamus. Vero fuga unde quae modi hic consectetur quis suscipit, voluptate, veniam neque laborum excepturi esse asperiores dignissimos est at cum reprehenderit dolorum id! Odit qui incidunt similique a deserunt, quisquam eum culpa atque sunt suscipit nostrum dolore. Quisquam rerum ipsum vel maxime illum laborum dicta similique esse non quis dolorem cupiditate nisi corporis vero est, adipisci commodi facilis? Nesciunt eos ex, odit quidem velit tempore. Delectus assumenda aut possimus architecto dolore dicta vel id dolorum tenetur inventore! Amet porro recusandae labore vitae nemo qui modi, maxime rerum laborum, ex sed at eligendi impedit ipsam alias unde, ea quaerat officiis pariatur nisi sapiente inventore non. In velit quam dolor illo autem esse fugit cupiditate quisquam excepturi, nobis omnis laboriosam, quo doloribus error architecto id veritatis facilis quos. Alias a nemo quaerat provident! Quia, corrupti recusandae. Ipsa velit neque rem accusantium eos. Labore magnam eum id porro minima aliquam, quam sequi, nisi minus ex quod fugiat aliquid accusantium dicta tenetur velit praesentium placeat deserunt neque. Laborum est atque perspiciatis tenetur nemo excepturi nihil vitae, consequuntur sed facere quo! Quo dolorum blanditiis nihil ut dicta deleniti ex cupiditate quis nobis aspernatur molestias hic beatae, explicabo animi repudiandae iure corrupti laboriosam, saepe ipsam sapiente molestiae eveniet eaque. Molestiae officiis perspiciatis hic fugiat illo possimus repellat. Quos sint veritatis ad quasi iusto nisi quis adipisci a ea esse optio aliquam, atque temporibus soluta pariatur magni? Molestiae quaerat voluptatem libero, impedit iusto non dolorum quo neque dolores. Veniam earum magnam delectus dignissimos voluptatum et est? Dignissimos saepe aut porro tempore sapiente est fugiat nesciunt voluptates ad ex cum, maxime praesentium, atque eligendi! Suscipit, voluptas! Repellat unde facere laudantium blanditiis quae sint recusandae provident amet fuga placeat fugiat voluptates, aut eligendi, velit possimus expedita cupiditate omnis asperiores, maxime sit ipsum voluptatibus? Sit autem, fugit, repellendus vel ea facere minima, voluptas nisi officiis omnis harum atque laboriosam eius laudantium aspernatur incidunt illum excepturi quibusdam nihil delectus itaque odit voluptatem at aut. Dignissimos beatae sequi, expedita, explicabo suscipit quo vitae iusto perspiciatis iste veritatis incidunt dolor? Perspiciatis vero earum quisquam ab ad dolores, rerum voluptatem praesentium blanditiis quam, adipisci ex qui, assumenda illo deserunt quibusdam? Pariatur tempora exercitationem iusto at quaerat nemo ut ad, temporibus molestias nesciunt magnam, amet nam illo, vitae quia corporis quidem adipisci fuga beatae optio accusamus fugiat praesentium vero. Eum, numquam voluptatibus quaerat aut corporis quod, doloribus architecto dicta natus repellendus fuga neque sapiente iste. Laboriosam, maiores dignissimos! Blanditiis pariatur vitae in eius exercitationem ex expedita laboriosam ea ad aspernatur, vero quia iste minus ducimus aut maxime temporibus beatae qui reiciendis dignissimos, suscipit repellat? Amet iste vel debitis obcaecati blanditiis voluptas! Numquam autem culpa asperiores reiciendis accusantium harum cum veniam tempora accusamus, voluptate inventore? A natus repellendus excepturi nobis, sint sed voluptatum veniam molestias doloremque corporis numquam quos voluptates ipsum incidunt hic error voluptate! Aut animi vel maiores porro obcaecati suscipit odio soluta et, totam accusamus quibusdam error magni ipsam ex itaque, modi numquam? Exercitationem nobis libero quisquam maiores omnis repellat, quidem repudiandae quae voluptate quibusdam vitae excepturi expedita natus necessitatibus amet illum optio accusamus corrupti quasi sequi voluptatum magni perferendis iure aperiam. Harum dignissimos blanditiis nisi eveniet magnam necessitatibus qui officiis in, repellendus deleniti! Et, ducimus. Assumenda amet culpa dolores sit inventore nisi quos voluptate esse error aliquid tempore expedita quia praesentium blanditiis, velit eum voluptatum reprehenderit! Fuga nisi saepe provident quae pariatur culpa recusandae enim facilis vel voluptatibus magni nihil illum aperiam eum officiis quisquam, molestias vitae odit quaerat asperiores doloribus. Velit unde sunt, error saepe necessitatibus culpa tempore maxime facilis rerum et accusantium ipsam id libero earum in? Eaque dicta minima maiores sequi iste autem quia, numquam dolorem id esse consectetur quod quo sint labore inventore, ea accusantium nemo, tempora dolorum incidunt ad nobis. Eos et voluptatibus excepturi possimus obcaecati. Quia at voluptate porro adipisci tempora sit, nostrum vitae accusamus quam illum, minima tenetur unde esse non ab repellat accusantium sequi excepturi facere quod dolorum quos ipsa nesciunt! Officia rem veritatis at odit harum reprehenderit, nobis velit soluta facere sint id neque officiis dolorem dolore, libero deserunt ad necessitatibus, aliquam aperiam voluptatum accusantium inventore praesentium nihil esse. Illum amet voluptas, pariatur perferendis sed id non velit ad vero facilis! Maiores illo vel quis placeat! Dolor veniam eum corrupti laboriosam vitae commodi provident eaque quam nam, dignissimos hic eos a expedita obcaecati!
+      <section className="container px-4 py-10 mx-auto lg:h-128 lg:space-x-8 lg:flex lg:items-center">
+        <div className="w-full text-center lg:text-left lg:w-1/2 lg:-mt-8">
+          <h1 className="text-3xl leading-snug text-gray-800 dark:text-gray-200 md:text-4xl">
+            A <span className="font-semibold">free repository</span> for community
+            <br className="hidden lg:block" />
+            components using <span className="font-semibold underline decoration-primary">[Tailwind CSS](https://tailwindcss.com/)</span>
+          </h1>
+          <p className="mt-4 text-lg text-gray-500 dark:text-gray-300">
+            Open source Tailwind UI components and templates to
+            <br className="hidden lg:block" />
+            bootstrap your new apps, projects or landing sites!
+          </p>
+          <div className="mt-6 bg-transparent border rounded-lg dark:border-gray-700 lg:w-2/3 focus-within:border-primary focus-within:ring focus-within:ring-primary dark:focus-within:border-primary focus-within:ring-opacity-20">
+            <form action="https://www.creative-tim.com/twcomponents/search" className="flex flex-wrap justify-between md:flex-row">
+            </form>
+          </div>
+        </div>
+        <div className="w-full mt-4 lg:mt-0 lg:w-1/2">
+          <img
+            src="https://www.creative-tim.com/twcomponents/svg/website-designer-bro-purple.svg"
+            alt="tailwind css components"
+            className="w-full h-full max-w-md mx-auto"
+          />
+        </div>
+      </section>
+
+      <section className="container mx-auto px-4 py-16">
+        <div className="text-center mb-12">
+          <h2 className="text-4xl font-bold text-gray-800 dark:text-gray-200">Our Pricing Plans</h2>
+          <p className="mt-4 text-lg text-gray-500 dark:text-gray-300">Choose a plan that suits your needs.</p>
+        </div>
+        <div className="flex flex-wrap justify-center">
+          {/* <!-- Basic Plan --> */}
+          <div className="w-full max-w-sm p-6 m-4 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
+            <h3 className="text-2xl font-semibold text-gray-800 dark:text-gray-200">Basic</h3>
+            <p className="mt-4 text-gray-500 dark:text-gray-300">$10/month</p>
+            <ul className="mt-6 space-y-4">
+              <li className="text-gray-600 dark:text-gray-400">10 GB Storage</li>
+              <li className="text-gray-600 dark:text-gray-400">Basic Support</li>
+              <li className="text-gray-600 dark:text-gray-400">Single User</li>
+              <li className="text-gray-600 dark:text-gray-400">Community Access</li>
+              <li className="text-gray-600 dark:text-gray-400">Weekly Updates</li>
+            </ul>
+            <button className="w-full px-4 py-2 mt-6 text-white bg-primary rounded-lg hover:bg-primary/70 focus:outline-none focus:bg-primary/70">Choose Plan</button>
+          </div>
+          {/* <!-- Standard Plan with Bestseller Badge --> */}
+          <div className="w-full max-w-sm p-6 m-4 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105 border-4 border-primary">
+            <div className="relative">
+              <span className="absolute top-0 right-0 bg-primary text-white text-xs font-bold px-2 py-1 rounded-bl-lg">Bestseller</span>
+              <h3 className="text-2xl font-semibold text-gray-800 dark:text-gray-200">Standard</h3>
+            </div>
+            <p className="mt-4 text-gray-500 dark:text-gray-300">$20/month</p>
+            <ul className="mt-6 space-y-4">
+              <li className="text-gray-600 dark:text-gray-400">50 GB Storage</li>
+              <li className="text-gray-600 dark:text-gray-400">Priority Support</li>
+              <li className="text-gray-600 dark:text-gray-400">Up to 5 Users</li>
+              <li className="text-gray-600 dark:text-gray-400">Community Access</li>
+              <li className="text-gray-600 dark:text-gray-400">Daily Updates</li>
+            </ul>
+            <button className="w-full px-4 py-2 mt-6 text-white bg-primary rounded-lg hover:bg-primary/70 focus:outline-none focus:bg-primary/70">Choose Plan</button>
+          </div>
+          {/* <!-- Premium Plan --> */}
+          <div className="w-full max-w-sm p-6 m-4 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-200 hover:scale-105">
+            <h3 className="text-2xl font-semibold text-gray-800 dark:text-gray-200">Premium</h3>
+            <p className="mt-4 text-gray-500 dark:text-gray-300">$30/month</p>
+            <ul className="mt-6 space-y-4">
+              <li className="text-gray-600 dark:text-gray-400">200 GB Storage</li>
+              <li className="text-gray-600 dark:text-gray-400">24/7 Support</li>
+              <li className="text-gray-600 dark:text-gray-400">Unlimited Users</li>
+              <li className="text-gray-600 dark:text-gray-400">Community Access</li>
+              <li className="text-gray-600 dark:text-gray-400">Real-time Updates</li>
+            </ul>
+            <button className="w-full px-4 py-2 mt-6 text-white bg-primary rounded-lg hover:bg-primary/70 focus:outline-none focus:bg-primary/70">Choose Plan</button>
+          </div>
+        </div>
+      </section>
+
+      <section className="container mx-auto px-4 py-16">
+        <div className="text-center mb-12">
+          <h2 className="text-4xl font-bold text-gray-800 dark:text-gray-200">Top Blogs</h2>
+          <p className="mt-4 text-lg text-gray-500 dark:text-gray-300">Explore our most popular articles.</p>
+        </div>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 px-4">
+          {/* <!-- Blog 1 --> */}
+          <div className="w-full max-w-md p-6 m-4 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
+            <img className="w-full h-48 rounded-t-lg" src="https://images.pexels.com/photos/262508/pexels-photo-262508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Blog 1" />
+            <div className="mt-4">
+              <h3 className="text-2xl font-semibold text-gray-800 dark:text-gray-200">Blog Title 1</h3>
+              <p className="mt-2 text-gray-600 dark:text-gray-400">A brief description of the blog content goes here.</p>
+              <button className="mt-4 px-4 py-2 text-white bg-primary rounded-lg hover:bg-primary/70 focus:outline-none focus:bg-primary/70">Read More</button>
+            </div>
+          </div>
+          {/* <!-- Blog 2 --> */}
+          <div className="w-full max-w-md p-6 m-4 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
+            <img className="w-full h-48 rounded-t-lg" src="https://images.pexels.com/photos/1240527/pexels-photo-1240527.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Blog 2" />
+            <div className="mt-4">
+              <h3 className="text-2xl font-semibold text-gray-800 dark:text-gray-200">Blog Title 2</h3>
+              <p className="mt-2 text-gray-600 dark:text-gray-400">A brief description of the blog content goes here.</p>
+              <button className="mt-4 px-4 py-2 text-white bg-primary rounded-lg hover:bg-primary/70 focus:outline-none focus:bg-primary/70">Read More</button>
+            </div>
+          </div>
+          {/* <!-- Blog 3 --> */}
+          <div className="w-full max-w-md p-6 m-4 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
+            <img className="w-full h-48 rounded-t-lg" src="https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Blog 3" />
+            <div className="mt-4">
+              <h3 className="text-2xl font-semibold text-gray-800 dark:text-gray-200">Blog Title 3</h3>
+              <p className="mt-2 text-gray-600 dark:text-gray-400">A brief description of the blog content goes here.</p>
+              <button className="mt-4 px-4 py-2 text-white bg-primary rounded-lg hover:bg-primary/70 focus:outline-none focus:bg-primary/70">Read More</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="container mx-auto px-4 py-16">
+        <div className="text-center mb-12">
+          <h2 className="text-4xl font-bold text-gray-800 dark:text-gray-200">What Our Clients Say</h2>
+          <p className="mt-4 text-lg text-gray-500 dark:text-gray-300">Hear from our satisfied customers.</p>
+        </div>
+        <div className="flex flex-wrap justify-center">
+          {/* <!-- Testimonial 1 --> */}
+          <div className="w-full max-w-md p-6 m-4 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
+            <p className="text-gray-600 dark:text-gray-400">"This service has been a game-changer for our business. Highly recommend!"</p>
+            <div className="mt-4 flex items-center">
+              <img className="w-12 h-12 rounded-full" src="client1.jpg" alt="Client 1" />
+              <div className="ml-4">
+                <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-200">John Doe</h3>
+                <p className="text-gray-500 dark:text-gray-300">CEO, Company A</p>
+              </div>
+            </div>
+          </div>
+          {/* <!-- Testimonial 2 --> */}
+          <div className="w-full max-w-md p-6 m-4 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
+            <p className="text-gray-600 dark:text-gray-400">"Exceptional quality and fantastic customer support."</p>
+            <div className="mt-4 flex items-center">
+              <img className="w-12 h-12 rounded-full" src="client2.jpg" alt="Client 2" />
+              <div className="ml-4">
+                <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-200">Jane Smith</h3>
+                <p className="text-gray-500 dark:text-gray-300">CTO, Company B</p>
+              </div>
+            </div>
+          </div>
+          {/* <!-- Testimonial 3 --> */}
+          <div className="w-full max-w-md p-6 m-4 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
+            <p className="text-gray-600 dark:text-gray-400">"A reliable partner for our ongoing projects."</p>
+            <div className="mt-4 flex items-center">
+              <img className="w-12 h-12 rounded-full" src="client3.jpg" alt="Client 3" />
+              <div className="ml-4">
+                <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-200">Emily Johnson</h3>
+                <p className="text-gray-500 dark:text-gray-300">Manager, Company C</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
     </main>
   );
 }
