@@ -24,14 +24,10 @@ export default function Home() {
       <section className="container px-4 py-10 mx-auto lg:h-128 lg:space-x-8 lg:flex lg:items-center">
         <div className="w-full text-center lg:text-left lg:w-1/2 lg:-mt-8">
           <h1 className="text-3xl leading-snug text-gray-800 dark:text-gray-200 md:text-4xl">
-            A <span className="font-semibold">free repository</span> for community
-            <br className="hidden lg:block" />
-            components using <span className="font-semibold underline decoration-primary"><span ref={el} /></span>
+            Discover <span className="font-semibold">Blogsy</span> – Your ultimate platform for seamless blog management.
           </h1>
           <p className="mt-4 text-lg text-gray-500 dark:text-gray-300">
-            Open source Tailwind UI components and templates to
-            <br className="hidden lg:block" />
-            bootstrap your new apps, projects or landing sites!
+            Dive into a world of <span className="font-semibold underline decoration-primary text-xl"><span ref={el} /></span>engaging content and insights.
           </p>
           <div className="mt-6 bg-transparent border rounded-lg dark:border-gray-700 lg:w-2/3 focus-within:border-primary focus-within:ring focus-within:ring-primary dark:focus-within:border-primary focus-within:ring-opacity-20">
             <form action="https://www.creative-tim.com/twcomponents/search" className="flex flex-wrap justify-between md:flex-row">
@@ -100,81 +96,46 @@ export default function Home() {
 
       <section className="container mx-auto px-4 py-16">
         <div className="text-center mb-12">
-          <h2 className="text-4xl font-bold text-gray-800 dark:text-gray-200">Top Blogs</h2>
-          <p className="mt-4 text-lg text-gray-500 dark:text-gray-300">Explore our most popular articles.</p>
-        </div>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 px-4">
-          {/* <!-- Blog 1 --> */}
-          <div className="w-full max-w-md p-6 m-4 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
-            <img className="w-full h-48 rounded-t-lg" src="https://images.pexels.com/photos/262508/pexels-photo-262508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Blog 1" />
-            <div className="mt-4">
-              <h3 className="text-2xl font-semibold text-gray-800 dark:text-gray-200">Blog Title 1</h3>
-              <p className="mt-2 text-gray-600 dark:text-gray-400">A brief description of the blog content goes here.</p>
-              <button className="mt-4 px-4 py-2 text-white bg-primary rounded-lg hover:bg-primary/70 focus:outline-none focus:bg-primary/70">Read More</button>
-            </div>
-          </div>
-          {/* <!-- Blog 2 --> */}
-          <div className="w-full max-w-md p-6 m-4 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
-            <img className="w-full h-48 rounded-t-lg" src="https://images.pexels.com/photos/1240527/pexels-photo-1240527.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Blog 2" />
-            <div className="mt-4">
-              <h3 className="text-2xl font-semibold text-gray-800 dark:text-gray-200">Blog Title 2</h3>
-              <p className="mt-2 text-gray-600 dark:text-gray-400">A brief description of the blog content goes here.</p>
-              <button className="mt-4 px-4 py-2 text-white bg-primary rounded-lg hover:bg-primary/70 focus:outline-none focus:bg-primary/70">Read More</button>
-            </div>
-          </div>
-          {/* <!-- Blog 3 --> */}
-          <div className="w-full max-w-md p-6 m-4 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
-            <img className="w-full h-48 rounded-t-lg" src="https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Blog 3" />
-            <div className="mt-4">
-              <h3 className="text-2xl font-semibold text-gray-800 dark:text-gray-200">Blog Title 3</h3>
-              <p className="mt-2 text-gray-600 dark:text-gray-400">A brief description of the blog content goes here.</p>
-              <button className="mt-4 px-4 py-2 text-white bg-primary rounded-lg hover:bg-primary/70 focus:outline-none focus:bg-primary/70">Read More</button>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section className="container mx-auto px-4 py-16">
-        <div className="text-center mb-12">
           <h2 className="text-4xl font-bold text-gray-800 dark:text-gray-200">What Our Clients Say</h2>
           <p className="mt-4 text-lg text-gray-500 dark:text-gray-300">Hear from our satisfied customers.</p>
         </div>
         <div className="flex flex-wrap justify-center">
           {/* <!-- Testimonial 1 --> */}
           <div className="w-full max-w-md p-6 m-4 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
-            <p className="text-gray-600 dark:text-gray-400">"This service has been a game-changer for our business. Highly recommend!"</p>
+            <p className="text-gray-600 dark:text-gray-400">"The team was incredibly professional and delivered outstanding results. Highly recommended!"</p>
             <div className="mt-4 flex items-center">
-              <img className="w-12 h-12 rounded-full" src="client1.jpg" alt="Client 1" />
+              <img className="w-12 h-12 rounded-full" src="https://randomuser.me/api/portraits/men/32.jpg" alt="Client 1" />
               <div className="ml-4">
-                <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-200">John Doe</h3>
-                <p className="text-gray-500 dark:text-gray-300">CEO, Company A</p>
+                <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-200">Michael Brown</h3>
+                <p className="text-gray-500 dark:text-gray-300">Founder, Tech Innovations</p>
               </div>
             </div>
           </div>
           {/* <!-- Testimonial 2 --> */}
           <div className="w-full max-w-md p-6 m-4 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
-            <p className="text-gray-600 dark:text-gray-400">"Exceptional quality and fantastic customer support."</p>
+            <p className="text-gray-600 dark:text-gray-400">"Their attention to detail and customer service is unparalleled."</p>
             <div className="mt-4 flex items-center">
-              <img className="w-12 h-12 rounded-full" src="client2.jpg" alt="Client 2" />
+              <img className="w-12 h-12 rounded-full" src="https://randomuser.me/api/portraits/women/44.jpg" alt="Client 2" />
               <div className="ml-4">
-                <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-200">Jane Smith</h3>
-                <p className="text-gray-500 dark:text-gray-300">CTO, Company B</p>
+                <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-200">Sarah Connor</h3>
+                <p className="text-gray-500 dark:text-gray-300">COO, Future Enterprises</p>
               </div>
             </div>
           </div>
           {/* <!-- Testimonial 3 --> */}
           <div className="w-full max-w-md p-6 m-4 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
-            <p className="text-gray-600 dark:text-gray-400">"A reliable partner for our ongoing projects."</p>
+            <p className="text-gray-600 dark:text-gray-400">"A fantastic partner for our business needs. We couldn't be happier."</p>
             <div className="mt-4 flex items-center">
-              <img className="w-12 h-12 rounded-full" src="client3.jpg" alt="Client 3" />
+              <img className="w-12 h-12 rounded-full" src="https://randomuser.me/api/portraits/men/65.jpg" alt="Client 3" />
               <div className="ml-4">
-                <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-200">Emily Johnson</h3>
-                <p className="text-gray-500 dark:text-gray-300">Manager, Company C</p>
+                <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-200">James Wilson</h3>
+                <p className="text-gray-500 dark:text-gray-300">Director, Global Solutions</p>
               </div>
             </div>
           </div>
         </div>
       </section>
+
     </main>
   );
 }
